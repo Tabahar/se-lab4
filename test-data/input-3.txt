@@ -1,0 +1,3 @@
+#Make a spaceship with one store of torpedos and 0 failure rate
+GT4500,0,0,10,0
+TORPEDO,SINGLE #should try fire torpedo from primary store but fail and fire from second
