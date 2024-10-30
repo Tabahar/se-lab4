@@ -1,0 +1,3 @@
+#Make a spaceship with no torpedos and 0 failure rate
+GT4500,0,0,0,0
+TORPEDO,ALL #should fire fail to all torpedos

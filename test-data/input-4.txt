@@ -1,0 +1,3 @@
+#Make a spaceship with torpedos and 1 failure rate
+GT4500,10,1,10,1
+TORPEDO,SINGLE #should try to fire torpedo from primary store but fail and not try again
